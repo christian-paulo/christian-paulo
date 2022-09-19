@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I am Christian Paulo.</h1>
 <h3 align="center">Software Developer</h3>
 
-<h3 align="left">About me: <a target="_blank" href="http://christian-paulo.wrinfoteam.com.br"><img align="right" src="http://wrinfoteam.com.br/developer_cp.svg" width="340" height="310" alt="christianpaulo" /> </a></h3>
-<p>-  My name is Christian Paulo da Costa Almeida, I'm 20 years old, I'm studying Computer Science and English. I'm a iOS/Web Developer and computer technician. </p>
+<h3 align="left">About me: <a target="_blank" href="http://christianpaulo.tech"><img align="right" src="https://christianpaulo.tech/wp-content/uploads/2022/09/computer-work-4.png" width="340" height="310" alt="christianpaulo" /> </a></h3>
+<p>-  My name is Christian Paulo, I'm 20 years old, I'm studying Computer Science and English. I'm a iOS/Web Developer and computer technician. </p>
 <p>- My favorite technologies: React, Javascript e CSS  </p>
 
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
-    <a href="http://christian-paulo.wrinfoteam.com.br" target="_blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-blue" height="30" width="110" /></a>
+    <a href="http://christianpaulo.tech" target="_blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-blue" height="30" width="110" /></a>
       <a href="https://github.com/christian-paulo" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" width="110" /></a>
 <a href="https://www.linkedin.com/in/christian-paulo-966b66185/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christian-paulo" height="30" width="110" /></a>
 
